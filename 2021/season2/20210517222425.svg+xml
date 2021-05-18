@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="341.1"
+   height="163.9"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="inelastic-elastic-drop.svg">
+  <metadata
+     id="metadata103">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview101"
+     showgrid="false"
+     inkscape:zoom="1.9656992"
+     inkscape:cx="170.55"
+     inkscape:cy="81.949997"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g43" />
+  <defs
+     id="defs4">
+    <marker
+       id="id19"
+       style="overflow:visible;"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#204a87; stroke:#204a87; stroke-width:1pt;"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7" />
+    </marker>
+    <marker
+       id="id14"
+       style="overflow:visible;"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#204a87; stroke:#204a87; stroke-width:1pt;"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path10" />
+    </marker>
+    <marker
+       id="id9"
+       style="overflow:visible;"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#204a87; stroke:#204a87; stroke-width:1pt;"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13" />
+    </marker>
+    <marker
+       id="id8"
+       style="overflow:visible;"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#204a87; stroke:#204a87; stroke-width:1pt;"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path16" />
+    </marker>
+    <marker
+       id="id3"
+       style="overflow:visible;"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#204a87; stroke:#204a87; stroke-width:1pt;"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path19" />
+    </marker>
+    <linearGradient
+       id="id2">
+      <stop
+         offset="0"
+         style="stop-color:white; stop-opacity:1;"
+         id="stop22" />
+      <stop
+         offset="1"
+         style="stop-color:white; stop-opacity:0;"
+         id="stop24" />
+    </linearGradient>
+    <linearGradient
+       id="id1">
+      <stop
+         offset="0"
+         style="stop-color:white; stop-opacity:1;"
+         id="stop27" />
+      <stop
+         offset="1"
+         style="stop-color:#cecece; stop-opacity:0;"
+         id="stop29" />
+    </linearGradient>
+    <radialGradient
+       id="id5"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.026031,0,0,0.020811,81.0536,671.908)"
+       xlink:href="#id1"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="id4"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.06687,0,0,0.043698,-277.754,734.287)"
+       xlink:href="#id2"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="id6"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.06687,0,0,0.043698,-247.616,773.011)"
+       xlink:href="#id2"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="id7"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.026031,0,0,0.020811,128.962,703.792)"
+       xlink:href="#id1"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="id10"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.06687,0,0,0.043698,-398.501,578.002)"
+       xlink:href="#id2"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="id11"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.026031,0,0,0.020811,-110.858,544.459)"
+       xlink:href="#id1"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="id12"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.06687,0,0,0.043698,-498.911,701.785)"
+       xlink:href="#id2"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="id13"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.026031,0,0,0.020811,-154.538,661.225)"
+       xlink:href="#id1"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="id15"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.06687,0,0,0.043698,-338.237,656.011)"
+       xlink:href="#id2"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="id16"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.026031,0,0,0.020811,-15.0615,608.086)"
+       xlink:href="#id1"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="id17"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.06687,0,0,0.043698,-321.104,709.807)"
+       xlink:href="#id2"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="id18"
+       r="178.23"
+       fx="331.18"
+       fy="530"
+       cx="331.2"
+       cy="530"
+       gradientTransform="matrix(0.026031,0,0,0.020811,26.7676,654.199)"
+       xlink:href="#id1"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     transform="translate(-212.5,-503.949)"
+     id="g43">
+    <path
+       style="marker-end:url(#id3); fill:#204a87; stroke:#204a87; stroke-width:1.86;"
+       d="M 473.8,532.1 499,638.9"
+       id="path45" />
+    <circle
+       cx="470.5"
+       cy="519.3"
+       r="13.4616"
+       style="color:black; overflow:visible; fill:#3e94ae; stroke-width:0.75; stroke-linejoin:round;"
+       id="circle47" />
+    <ellipse
+       cx="-255.6"
+       cy="757.2"
+       rx="11.9"
+       ry="7.8"
+       transform="matrix(0.793009,-0.609209,0.882331,0.47063,0,0)"
+       style="color:black; overflow:visible; fill:url(#id4); stroke-width:0.75; stroke-linejoin:round;"
+       id="ellipse49" />
+    <ellipse
+       cx="89.7"
+       cy="683"
+       rx="4.6"
+       ry="3.7"
+       transform="matrix(0.838248,-0.545289,0.57103,0.820929,0,0)"
+       style="color:black; overflow:visible; fill:url(#id5); stroke-width:0.75; stroke-linejoin:round;"
+       id="ellipse51" />
+    <circle
+       cx="528.8"
+       cy="519.3"
+       r="13.4616"
+       style="color:black; overflow:visible; fill:#3e94ae; stroke-width:0.75; stroke-linejoin:round;"
+       id="circle53" />
+    <ellipse
+       cx="-225.5"
+       cy="796.2"
+       rx="11.9"
+       ry="7.8"
+       transform="matrix(0.793009,-0.609209,0.882331,0.47063,0,0)"
+       style="color:black; overflow:visible; fill:url(#id6); stroke-width:0.75; stroke-linejoin:round;"
+       id="ellipse55" />
+    <ellipse
+       cx="137.6"
+       cy="714.8"
+       rx="4.6"
+       ry="3.7"
+       transform="matrix(0.838248,-0.545289,0.57103,0.820929,0,0)"
+       style="color:black; overflow:visible; fill:url(#id7); stroke-width:0.75; stroke-linejoin:round;"
+       id="ellipse57" />
+    <path
+       style="marker-end:url(#id8); fill:#204a87; stroke:#204a87; stroke-width:1.86;"
+       d="M 499.9,641.5 525.1,534.8"
+       id="path59" />
+    <path
+       style="marker-end:url(#id9); fill:#204a87; stroke:#204a87; stroke-width:1.86;"
+       d="m 240.2,532.1 25.2,106.8"
+       id="path61" />
+    <circle
+       cx="236.8"
+       cy="519.3"
+       r="13.4616"
+       style="color:black; overflow:visible; fill:#9d8d74; stroke-width:0.75; stroke-linejoin:round;"
+       id="circle63" />
+    <ellipse
+       cx="-376.4"
+       cy="601.2"
+       rx="11.9"
+       ry="7.8"
+       transform="matrix(0.793009,-0.609209,0.882331,0.47063,0,0)"
+       style="color:black; overflow:visible; fill:url(#id10); stroke-width:0.75; stroke-linejoin:round;"
+       id="ellipse65" />
+    <ellipse
+       cx="-102.2"
+       cy="555.5"
+       rx="4.6"
+       ry="3.7"
+       transform="matrix(0.838248,-0.545289,0.57103,0.820929,0,0)"
+       style="color:black; overflow:visible; fill:url(#id11); stroke-width:0.75; stroke-linejoin:round;"
+       id="ellipse67" />
+    <path
+       style="color:black; overflow:visible; fill:#9d8d74; stroke-width:0.75; stroke-linejoin:round;"
+       d="m 289.4,635.8 c 0,6.7 -9.7,6.1 -21.2,6 -11.6,0 -20.5,0.7 -20.5,-6 0,-6.7 9.4,-12.1 20.8,-12.1 11.5,0 20.9,5.4 20.9,12.1 z"
+       id="path69" />
+    <ellipse
+       cx="-476.8"
+       cy="724.9"
+       rx="11.9"
+       ry="7.8"
+       transform="matrix(0.793009,-0.609209,0.882331,0.47063,0,0)"
+       style="color:black; overflow:visible; fill:url(#id12); stroke-width:0.75; stroke-linejoin:round;"
+       id="ellipse71" />
+    <ellipse
+       cx="-145.9"
+       cy="672.3"
+       rx="4.6"
+       ry="3.7"
+       transform="matrix(0.838248,-0.545289,0.57103,0.820929,0,0)"
+       style="color:black; overflow:visible; fill:url(#id13); stroke-width:0.75; stroke-linejoin:round;"
+       id="ellipse73" />
+    <rect
+       x="212.5"
+       y="641.2"
+       width="107.5"
+       height="2.7"
+       style="color:black; overflow:visible; fill:black; stroke-width:0;"
+       id="rect75" />
+    <rect
+       x="446.1"
+       y="641.2"
+       width="107.5"
+       height="2.7"
+       style="color:black; overflow:visible; fill:black; stroke-width:0;"
+       id="rect77" />
+    <text
+       x="223.8"
+       y="664.79999"
+       style="color:#000000;font-style:italic;font-size:22.5px;font-family:'Comic Sans MS';overflow:visible;fill:#9d8d74;stroke-width:0.30000001px"
+       id="text79">无弹性</text>
+    <text
+       x="467.60001"
+       y="664.79999"
+       style="color:#000000;font-style:italic;font-size:22.5px;font-family:'Comic Sans MS';overflow:visible;fill:#3e94ae;stroke-width:0.30000001px"
+       id="text81">有弹性</text>
+    <path
+       style="marker-end:url(#id14); fill:#204a87; stroke:#204a87; stroke-width:1.86;"
+       d="M 356.8,532.1 382,638.9"
+       id="path83" />
+    <circle
+       cx="353.5"
+       cy="519.3"
+       r="13.4616"
+       style="color:black; overflow:visible; fill:#c4a000; stroke-width:0.75; stroke-linejoin:round;"
+       id="circle85" />
+    <ellipse
+       cx="-316.1"
+       cy="678.9"
+       rx="11.9"
+       ry="7.8"
+       transform="matrix(0.793009,-0.609209,0.882331,0.47063,0,0)"
+       style="color:black; overflow:visible; fill:url(#id15); stroke-width:0.75; stroke-linejoin:round;"
+       id="ellipse87" />
+    <ellipse
+       cx="-6.4"
+       cy="619.1"
+       rx="4.6"
+       ry="3.7"
+       transform="matrix(0.838248,-0.545289,0.57103,0.820929,0,0)"
+       style="color:black; overflow:visible; fill:url(#id16); stroke-width:0.75; stroke-linejoin:round;"
+       id="ellipse89" />
+    <circle
+       cx="414.8"
+       cy="534.3"
+       r="13.4616"
+       style="color:black; overflow:visible; fill:#c4a000; stroke-width:0.75; stroke-linejoin:round;"
+       id="circle91" />
+    <ellipse
+       cx="-299"
+       cy="732.9"
+       rx="11.9"
+       ry="7.8"
+       transform="matrix(0.793009,-0.609209,0.882331,0.47063,0,0)"
+       style="color:black; overflow:visible; fill:url(#id17); stroke-width:0.75; stroke-linejoin:round;"
+       id="ellipse93" />
+    <ellipse
+       cx="35.4"
+       cy="665.3"
+       rx="4.6"
+       ry="3.7"
+       transform="matrix(0.838248,-0.545289,0.57103,0.820929,0,0)"
+       style="color:black; overflow:visible; fill:url(#id18); stroke-width:0.75; stroke-linejoin:round;"
+       id="ellipse95" />
+    <path
+       style="marker-end:url(#id19); fill:#204a87; stroke:#204a87; stroke-width:1.86;"
+       d="m 382.8,641.3 28.1,-92.6"
+       id="path97" />
+    <rect
+       x="329.1"
+       y="641.2"
+       width="107.5"
+       height="2.7"
+       style="color:black; overflow:visible; fill:black; stroke-width:0;"
+       id="rect99" />
+  </g>
+</svg>
